@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Portal 2
+</title>
+</head>
+<style>
+p{
+color: #4444FF;
+}
+</style>
+<body>
+<h1>Portal 2</h1>
+<img src="https://steamcdn-a.akamaihd.net/steam/apps/620/header.jpg?t=1512411524">
+<p>The gameplay is interesting and constantly introduces new ideas. The 
+excellent storytelling and humor of the game immerse you in the world..</p>
+<p></p>
+<a href="file:///C:/Users/Owner/Desktop/COMPSCI%20SITE/index.html">Back to main menu</a>
+</body>
+</html>
