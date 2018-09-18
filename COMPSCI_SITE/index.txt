@@ -7,10 +7,10 @@ gud games.
 </head>
 <body>
 <h1>List of very good games</h1>
-<a href="https://cridlebaughg.github.io/testPage/Chrono_Trigger.html">Chrono Trigger</a>
-<a href="https://cridlebaughg.github.io/testPage/Breath_of_the_Wild.html">Breath of the Wild</a>
-<a href="https://cridlebaughg.github.io/testPage/Psychonauts.html">Psychonauts</a>
-<a href="https://cridlebaughg.github.io/testPage/Bastion.html">Bastion</a>
-<a href="https://cridlebaughg.github.io/testPage/Portal_2.html">Portal 2</a>
+<a href="cridlebaughg.github.io/testPage/Chrono_Trigger.html">Chrono Trigger</a>
+<a href="cridlebaughg.github.io/testPage/Breath_of_the_Wild.html">Breath of the Wild</a>
+<a href="cridlebaughg.github.io/testPage/Psychonauts.html">Psychonauts</a>
+<a href="cridlebaughg.github.io/testPage/Bastion.html">Bastion</a>
+<a href="cridlebaughg.github.io/testPage/Portal_2.html">Portal 2</a>
 </body>
 </html>
