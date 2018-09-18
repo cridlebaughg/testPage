@@ -16,6 +16,6 @@ color: #FF8888;
 <p>Overall solid and incredibly consitentgame that does everything well. 
 No glaring weaknesses or bad mechanics. Definetely my favorite game.</p>
 <p></p>
-<a href="file:///C:/Users/Owner/Desktop/COMPSCI%20SITE/index.html">Back to main menu</a>
+<a href="https://cridlebaughg.github.io/testPage/">Back to main menu</a>
 </body>
 </html>

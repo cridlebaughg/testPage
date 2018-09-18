@@ -16,6 +16,6 @@ color: #88FF00;
 <p>The game has a few problems such as a lack of tutorialization, but 
 the characters and humor of the game are the main draw.</p>
 <p></p>
-<a href="file:///C:/Users/Owner/Desktop/COMPSCI%20SITE/index.html">Back to main menu</a>
+<a href="https://cridlebaughg.github.io/testPage/">Back to main menu</a>
 </body>
 </html>
